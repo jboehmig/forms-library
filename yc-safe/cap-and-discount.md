@@ -2,14 +2,14 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 
 __[COMPANY NAME]__
 
-__SAFE__
+# SAFE
 _(Simple Agreement for Future Equity)_
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name]  (the “Investor”) of $[________]  (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
+THIS CERTIFIES THAT in exchange for the payment by *[Investor Name]* (the “Investor”) of $*[________]* (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
 
-The “Valuation Cap” is $[___________].  
+The “_Valuation Cap_” is $[___________].  
 
-The “Discount Rate” is [100 minus the discount]%.
+The “_Discount Rate_” is [100 minus the discount]%.
 
 See Section 2 for certain additional defined terms.
 
