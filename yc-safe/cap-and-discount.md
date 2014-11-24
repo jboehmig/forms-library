@@ -1,9 +1,9 @@
 THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
-## [COMPANY NAME]
+__[COMPANY NAME]__
 
-## SAFE 
-(Simple Agreement for Future Equity)
+__SAFE__
+_(Simple Agreement for Future Equity)_
 
 THIS CERTIFIES THAT in exchange for the payment by [Investor Name]  (the “Investor”) of $[________]  (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
 
