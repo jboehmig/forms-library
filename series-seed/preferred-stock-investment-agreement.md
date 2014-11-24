@@ -4,11 +4,11 @@ This Series Seed Preferred Stock Investment Agreement (this "_Agreement_") is da
 
 The parties agree as follows:
 
-* (1.)  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibit and Schedules thereto have the meanings set forth in Exhibit A.
+* (1.)  __DEFINITIONS.__ Capitalized terms used and not otherwise defined in this Agreement or the Exhibit and Schedules thereto have the meanings set forth in _Exhibit A_.
 
-* (2.)  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties hereto the rights set forth in this Agreement.    
+* (2.)  __INVESTMENT.__ Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in _Exhibit B_, (i) each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on _Schedule 1_, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties hereto the rights set forth in this Agreement.    
 
-* (3.)  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules hereto) together with the Restated Charter constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled. 
+* (3.)  __ENTIRE AGREEMENT.__  This Agreement (including the Exhibits and Schedules hereto) together with the Restated Charter constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled. 
 
 -------------------------
 # EXHIBIT A
