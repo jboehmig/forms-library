@@ -18,49 +18,49 @@ The parties agree as follows:
 
 * (1.) OVERVIEW DEFINITIONS.
 
-  “Agreement Date” means *____________________________________________.*
+  "Agreement Date" means *____________________________________________*.
 
-  “Company” means *___________________________________________________.*
+  "Company" means *___________________________________________________*.
 
-  “Governing Law” means the laws of the state of *____________________.*
+  "Governing Law" means the laws of the state of *____________________*.
 
-  “Dispute Resolution Jurisdiction” means the federal or state courts located in *________________.*
+  "Dispute Resolution Jurisdiction" means the federal or state courts located in *________________*.
 
-  “State of Incorporation” means *____________________________________.*
+  "State of Incorporation" means *____________________________________*.
 
-  “Stock Plan” means *________________________________________________.*
+  "Stock Plan" means *________________________________________________*.
 
 * (2.) BOARD COMPOSITION DEFINITIONS.
 
-  “Common Board Member Count” means *______.*
+  "Common Board Member Count" means *______*.
 
-  “Mutual Consent Board Member Count” means *______.*
+  "Mutual Consent Board Member Count" means *______*.
 
-  “Series Seed Board Member Count” means *______.*
+  "Series Seed Board Member Count" means *______*.
 
-  “Common Control Holders” means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
+  "Common Control Holders" means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
 
 * (3.) TERM SHEET DEFINITIONS.
 
-  “Major Purchaser Dollar Threshold” means *$____________.*
+  "Major Purchaser Dollar Threshold" means *$____________*.
 
-  “Purchase Price” means *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
+  "Purchase Price" means $*____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
 
-  “Total Series Seed Investment Amount” means *$____________.*
+  "Total Series Seed Investment Amount" means *$____________*.
 
-  “Unallocated Post-Money Option Pool Percent” means *____________*%.
+  "Unallocated Post-Money Option Pool Percent" means *____________*%.
 
-  “Purchaser Counsel Reimbursement Amount” means *$____________.*
+  "Purchaser Counsel Reimbursement Amount" means $*____________*.
 
 * (4.) RESULTING CAP TABLE DEFINITIONS.
 
-  “Common Shares Issued and Outstanding Pre-Money” means *____________.*
+  "Common Shares Issued and Outstanding Pre-Money" means *____________*.
 
-  “Total Post-Money Shares Reserved for Option Pool” means *____________.* 
+  "Total Post-Money Shares Reserved for Option Pool" means *____________*. 
 
-  “Number of Issued And Outstanding Options” means *____________.*
+  "Number of Issued And Outstanding Options" means *____________*.
 
-  “Unallocated Post-Money Option Pool Shares” means *____________.* 
+  "Unallocated Post-Money Option Pool Shares" means *____________*. 
   
 # SCHEDULE 1
 
@@ -187,7 +187,7 @@ The parties agree as follows:
 
       The Purchaser understands that the shares of Series Seed Preferred Stock and any securities issued in respect of or exchange for the shares of Series Seed Preferred Stock, may bear any one or more of the following legends:  (a) any legend set forth in, or required by, this Agreement; (b) any legend required by the securities laws of any state to the extent such laws are applicable to the shares of Series Seed Preferred Stock represented by the certificate so legended; and (c) the following legend:
 
-      “THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED.”
+      "THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED."
 
     * (3.7) Accredited and Sophisticated Purchaser.  
 
@@ -239,7 +239,7 @@ The parties agree as follows:
 
       Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration statement or opinion of counsel will be required: (i) for any transfer of any Securities in compliance with the Securities and Exchange Commission's Rule 144 or Rule 144A, or (ii) for any transfer of any Securities by a Holder that is a partnership, limited liability company, a corporation, or a venture capital fund to (A) a partner of such partnership, a member of such limited liability company, or stockholder of such corporation, (B) an affiliate of such partnership, limited liability company or corporation (including, any affiliated investment fund of such Holder), (C) a retired partner of such partnership or a retired member of such limited liability company, (D) the estate of any such partner, member, or stockholder, or (iii) for the transfer without additional consideration or at no greater than cost by gift, will, or intestate succession by any Holder to the Holder's spouse or lineal descendants or ancestors or any trust for any of the foregoing; provided that, in the case of clauses (ii) and (iii), the transferee agrees in writing to be subject to the terms of this Agreement to the same extent as if the transferee were an original Purchaser under this Agreement.
 
-    * (5.2) “Market Stand-Off” Agreement.  
+    * (5.2) "Market Stand-Off" Agreement.  
 
       To the extent requested by the Company or an underwriter of securities of the Company, each Holder shall not sell or otherwise transfer or dispose of any Securities or other shares of stock of the Company then owned by such Holder (other than to donees or partners of the Holder who agree to be similarly bound) for up to 180 days following the effective date of any registration statement of the Company filed under the Securities Act; provided however that, if during the last 17 days of the restricted period the Company issues an earnings release or material news or a material event relating to the Company occurs, or before the expiration of the restricted period the Company announces that it will release earnings results during the 16-day period beginning on the last day of the restricted period, and if the Company's securities are listed on the Nasdaq Stock Market and Rule 2711 thereof applies, then the restrictions imposed by this Section 5.2 will continue to apply until the expiration of the 18-day period beginning on the issuance of the earnings release or the occurrence of the material news or material event; provided, further, that such automatic extension will not apply to the extent that the Financial Industry Regulatory Authority has amended or repealed NASD Rule 2711(f)(4), or has otherwise provided written interpretive guidance regarding such rule, in each case, so as to eliminate the prohibition of any broker, dealer, or member of a national securities association from publishing or distributing any research report, with respect to the securities of an "emerging growth company" (as defined in the Jumpstart Our Business Startups Act of 2012) before or after the expiration of any agreement between the broker, dealer, or member of a national securities association and the emerging growth company or its stockholders that restricts or prohibits the sale of securities held by the emerging growth company or its stockholders after the initial public offering date.  In no event will the restricted period extend beyond 215 days after the effective date of the registration statement. For purposes of this Section 5.2, "Company" includes any wholly-owned subsidiary of the Company into which the Company merges or consolidates.  The Company may place restrictive legends on the certificates representing the shares subject to this Section 5.2 and may impose stop transfer instructions with respect to the Securities and such other shares of stock of each Holder (and the shares or securities of every other person subject to the foregoing restriction) until the end of such period.  Each Holder shall enter into any agreement reasonably required by the underwriters to implement the foregoing within any reasonable timeframe so requested.
 
