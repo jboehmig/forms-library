@@ -213,7 +213,7 @@ The parties agree as follows:
 
         * (4.1.2)  Confidentiality.  Anything in this Agreement to the contrary notwithstanding, no Purchaser by reason of this Agreement shall have access to any trade secrets or confidential information of the Company.  The Company shall not be required to comply with any information rights of any Purchaser whom the Company reasonably determines to be a competitor or an officer, employee, director, or holder of ten percent (10%) or more of a competitor.  Each Purchaser shall keep confidential and shall not disclose, divulge, or use for any purpose (other than to monitor its investment in the Company) any confidential information obtained from the Company pursuant to the terms of this Agreement other than to any of the Purchaser's attorneys, accountants, consultants, and other professionals, to the extent necessary to obtain their services in connection with monitoring the Purchaser's investment in the Company.
 
-            * (4.1.3)	Inspection Rights.  The Company shall permit each Major Purchaser to visit and inspect the Company's properties, to examine its books of account and records and to discuss the Company's affairs, finances and accounts with its officers, all at such reasonable times as may be requested by such Major Purchaser.
+        * (4.1.3)	Inspection Rights.  The Company shall permit each Major Purchaser to visit and inspect the Company's properties, to examine its books of account and records and to discuss the Company's affairs, finances and accounts with its officers, all at such reasonable times as may be requested by such Major Purchaser.
 
     * (4.2) Additional Rights and Obligations.  
 
