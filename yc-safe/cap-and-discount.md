@@ -1,21 +1,22 @@
-THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
+THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “__SECURITIES ACT__”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
 __[COMPANY NAME]__
 
-# SAFE
-_(Simple Agreement for Future Equity)_
+__SAFE__
 
-THIS CERTIFIES THAT in exchange for the payment by *[Investor Name]* (the “Investor”) of $*[________]* (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
+__(Simple Agreement for Future Equity)__
 
-The “_Valuation Cap_” is $[___________].  
+THIS CERTIFIES THAT in exchange for the payment by _[Investor Name]_ (the __“Investor”__) of $*[________]* (the __“Purchase Amount”__) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the __“Company”__), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
 
-The “_Discount Rate_” is [100 minus the discount]%.
+The “__Valuation Cap__” is $[___________].  
 
-See Section 2 for certain additional defined terms.
+The “__Discount Rate__” is [100 minus the discount]%.
 
-* (1.)  Events
+See __Section 2__ for certain additional defined terms.
 
-    * ((a)) Equity Financing. If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor a number of shares of Safe Preferred Stock equal to the Purchase Amount divided by either: (1) the Safe Price or (2) the Discount Price, whichever calculation results in a greater number of shares of Safe Preferred Stock.
+* (1.)  __Events__
+
+    * ((a)) _Equity Financing._ If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor a number of shares of Safe Preferred Stock equal to the Purchase Amount divided by either: (1) the Safe Price or (2) the Discount Price, whichever calculation results in a greater number of shares of Safe Preferred Stock.
 
       In connection with the issuance of Safe Preferred Stock by the Company to the Investor pursuant to this Section 1(a): 
 
@@ -31,7 +32,7 @@ See Section 2 for certain additional defined terms.
 
     * ((d)) Termination.  This instrument will expire and terminate (without relieving the Company of any obligations arising from a prior breach of or non-compliance with this instrument) upon either (i) the issuance of stock to the Investor pursuant to Section 1(a) or Section 1(b)(ii); or (ii) the payment, or setting aside for payment, of amounts due the Investor pursuant to Section 1(b)(i) or Section 1(c).
 
-* (2.)  Definitions
+* (2.)  __Definitions__
 
   “Capital Stock” means the capital stock of the Company, including, without limitation, the “Common Stock” and the “Preferred Stock.”
 
@@ -65,7 +66,7 @@ See Section 2 for certain additional defined terms.
 
   “Standard Preferred Stock” means the shares of a series of Preferred Stock issued to the investors investing new money in the Company in connection with the initial closing of the Equity Financing.
 
-* (3.) Company Representations
+* (3.) __Company Representations__
 
     * ((a)) The Company is a corporation duly organized, validly existing and in good standing under the laws of the state of its incorporation, and has the power and authority to own, lease and operate its properties and carry on its business as now conducted.
 
@@ -77,13 +78,13 @@ See Section 2 for certain additional defined terms.
 
     * ((e)) To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information, processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be conducted, without any conflict with, or infringement of the rights of, others.
 
-* (4.)  Investor Representations
+* (4.)  __Investor Representations__
 
     * ((a)) The Investor has full legal capacity, power and authority to execute and deliver this instrument and to perform its obligations hereunder. This instrument constitutes valid and binding obligation of the Investor, enforceable in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity. 
 
     * ((b)) The Investor is an accredited investor as such term is defined in Rule 501 of Regulation D under the Securities Act. The Investor has been advised that this instrument and the underlying securities have not been registered under the Securities Act, or any state securities laws and, therefore, cannot be resold unless they are registered under the Securities Act and applicable state securities laws or unless an exemption from such registration requirements is available. The Investor is purchasing this instrument and the securities to be acquired by the Investor hereunder for its own account for investment, not as a nominee or agent, and not with a view to, or for resale in connection with, the distribution thereof, and the Investor has no present intention of selling, granting any participation in, or otherwise distributing the same. The Investor has such knowledge and experience in financial and business matters that the Investor is capable of evaluating the merits and risks of such investment, is able to incur a complete loss of such investment without impairing the Investor’s financial condition and is able to bear the economic risk of such investment for an indefinite period of time. 
 
-* (5.)  Miscellaneous
+* (5.)  __Miscellaneous__
 
   * ((a)) Any provision of this instrument may be amended, waived or modified only upon the written consent of the Company and the Investor.  
 
@@ -99,11 +100,11 @@ See Section 2 for certain additional defined terms.
 
 (Signature page follows)
 
-## SIGNATURE PAGE
+__SIGNATURE PAGE__
 
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.
 
-[COMPANY]
+__[COMPANY]__
 
 By:         
 [name]
@@ -113,7 +114,7 @@ Address:
           
 Email:  
 
-INVESTOR:
+__INVESTOR:__
 
 By:   
 [name]
