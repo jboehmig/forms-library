@@ -71,11 +71,19 @@ The parties agree as follows:
 | Name, Address and E-Mail of Purchaser | Series Seed Preferred Stock Shares Purchased | Indebtedness Cancellation | Cash Payment | Total Purchase Amount |
 |---------------------------------------|----------------------------------------------|---------------------------|--------------|-----------------------|
 |                                       |                                              |                           |              |                       |
+|                                       |                                              |                           |              |                       |
+|                                       |                                              |                           |              |                       |
+|                                       |                                              |                           |              |                       |
+|                                       |                                              |                           |              |                       |
 
 ## KEY HOLDERS:
 | Name, Address and E-Mail of Key Holder | Shares of Common Stock Held |
 |----------------------------------------|-----------------------------|
-|----------------------------------------|-----------------------------|
+|                                        |                             |
+|                                        |                             |
+|                                        |                             |
+|                                        |                             |
+|                                        |                             |
 
 -------------------------
 # EXHIBIT B
