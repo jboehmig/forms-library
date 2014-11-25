@@ -2,7 +2,7 @@
 
 *[Date]*
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “_Company_”).  Except for the section entitled “_Binding Terms_,” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of [Company Name], a *[Delaware]* corporation (the “_Company_”).  Except for the section entitled “_Binding Terms_,” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 ## Offering Terms  
 
@@ -12,15 +12,15 @@ Shares of Series Seed Preferred Stock of the Company (the “_Series Seed_”).
 
 ### Aggregate Proceeds:	
 
-*$[_________]* in aggregate.
+$[Aggregate Proceeds] in aggregate.
 
 ### Purchasers:	
 
-*[Accredited investors approved by the Company]* (the “_Purchasers_”).
+Accredited investors approved by the Company (the “_Purchasers_”).
 
 ### Price Per Share:	
 
-Price per share (the “_Original Issue Price_”), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
+Price per share (the “_Original Issue Price_”), based on a pre-money valuation of $[Pre-Money Valuation] including an available option pool of [Option Pool %]%.
 
 ### Liquidation Preference:	
 
@@ -40,7 +40,7 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* (“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least [Major Purchaser Dollar Threshold] \((“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
 
 ### Participation Right:	
 
@@ -48,11 +48,11 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 
 ### Board of Directors:	
 
-*[___]* directors elected by holders of a majority of common stock, *[__]* elected by holders of a majority of Series Seed and *[___]* elected by mutual consent.
+[Number of Common Directors] directors elected by holders of a majority of common stock, [Number of Series Seed Directors] elected by holders of a majority of Series Seed and [Number of Mutual Directors] elected by mutual consent.
 
 ### Expenses:	
 
-Company to reimburse counsel to Purchasers for a flat fee of $10,000.
+Company to reimburse counsel to Purchasers for a flat fee of $[Purchaser Counsel Reimbursement Amount].
 
 ### Future Rights:	
 
@@ -60,7 +60,7 @@ The Series Seed will be given the same rights as the next series of Preferred St
 
 ### Key Holder Matters:	
 
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon “_Double Trigger_.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+Each Key Holder shall have four years vesting beginning [Founder Vesting Start Date]. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 ### Binding Terms:	
 
@@ -71,7 +71,7 @@ For a period of thirty days, the Company shall not solicit offers from other par
  
 ## COMPANY: 
 
-*[__________, INC.]*
+[COMPANY NAME]:
 						
 Name:  	
 

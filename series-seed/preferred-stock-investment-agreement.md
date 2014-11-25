@@ -18,49 +18,49 @@ The parties agree as follows:
 
 * (1.) OVERVIEW DEFINITIONS.
 
-  "Agreement Date" means *____________________________________________*.
+  "Agreement Date" means [Agreement Date].
 
-  "Company" means *___________________________________________________*.
+  "Company" means [Company Name].
 
-  "Governing Law" means the laws of the state of *____________________*.
+  "Governing Law" means the laws of the state of [Governing Law State].
 
-  "Dispute Resolution Jurisdiction" means the federal or state courts located in *________________*.
+  "Dispute Resolution Jurisdiction" means the federal or state courts located in [Dispute Resolution City].
 
-  "State of Incorporation" means *____________________________________*.
+  "State of Incorporation" means [State of Incorporation].
 
-  "Stock Plan" means *________________________________________________*.
+  "Stock Plan" means [Name of Equity Incentive Plan].
 
 * (2.) BOARD COMPOSITION DEFINITIONS.
 
-  "Common Board Member Count" means *______*.
+  "Common Board Member Count" means [Number of Common Board Members].
 
-  "Mutual Consent Board Member Count" means *______*.
+  "Mutual Consent Board Member Count" means [Number of Mutual Board Members].
 
-  "Series Seed Board Member Count" means *______*.
+  "Series Seed Board Member Count" means [Number of Seed Board Members].
 
   "Common Control Holders" means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
 
 * (3.) TERM SHEET DEFINITIONS.
 
-  "Major Purchaser Dollar Threshold" means *$____________*.
+  "Major Purchaser Dollar Threshold" means [Major Purchaser Dollar Threshold].
 
-  "Purchase Price" means $*____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
+  "Purchase Price" means $[Purchase Price per Share] per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
 
-  "Total Series Seed Investment Amount" means *$____________*.
+  "Total Series Seed Investment Amount" means $[Total Series Seed Investment Amount].
 
-  "Unallocated Post-Money Option Pool Percent" means *____________*%.
+  "Unallocated Post-Money Option Pool Percent" means [Unallocated Post-Money Option Pool %]%.
 
-  "Purchaser Counsel Reimbursement Amount" means $*____________*.
+  "Purchaser Counsel Reimbursement Amount" means $[Purchaser Counsel Reimbursement Amount].
 
 * (4.) RESULTING CAP TABLE DEFINITIONS.
 
-  "Common Shares Issued and Outstanding Pre-Money" means *____________*.
+  "Common Shares Issued and Outstanding Pre-Money" means [Common Shares Issued and Outstanding].
 
-  "Total Post-Money Shares Reserved for Option Pool" means *____________*. 
+  "Total Post-Money Shares Reserved for Option Pool" means [Total Post-Money Shares Reserved for Option Pool]. 
 
-  "Number of Issued And Outstanding Options" means *____________*.
+  "Number of Issued And Outstanding Options" means [Number of Issued and Outstanding Options].
 
-  "Unallocated Post-Money Option Pool Shares" means *____________*. 
+  "Unallocated Post-Money Option Pool Shares" means [Unallocated Post-Money Option Pool]. 
   
 # SCHEDULE 1
 
