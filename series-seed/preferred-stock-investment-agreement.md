@@ -38,7 +38,7 @@ The parties agree as follows:
 
   "Series Seed Board Member Count" means [Number of Seed Board Members].
 
-  "Common Control Holders" means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
+  "Common Control Holders" means the Key Holders (who are then providing services to the company as employees) _(optional provision in previous parens)_.
 
 * (3.) TERM SHEET DEFINITIONS.
 

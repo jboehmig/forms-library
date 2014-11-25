@@ -142,7 +142,6 @@ FOR VALUE RECEIVED, [Company Name], a Delaware corporation (the â€œ__Company__â€
 
 _Signature Page Follows_
 
-
 [COMPANY NAME]
 
 By:   
@@ -153,7 +152,6 @@ Title:
 
 Address:      
       
-
 ACKNOWLEDGED AND AGREED:
 
 [INVESTOR NAME]
