@@ -10,11 +10,11 @@ $[Purchase Price]
      
 *_______________ __, 201_*
 
-FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Company”), hereby promises to pay to the order of _______________ (the “Investor”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [1] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “__Company__”), hereby promises to pay to the order of _______________ (the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [1] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
-* (1.)  Definitions.
+* (1.)  __Definitions.__
 
-    * ((a)) “Conversion Shares” shall mean:
+    * ((a)) “_Conversion Shares_” shall mean:
 
         * ((i)) with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
@@ -22,7 +22,7 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Compan
 
         * ((iii)) with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company’s Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
 
-    * ((b)) “Conversion Price” shall equal:
+    * ((b)) “_Conversion Price_” shall equal:
 
         * ((i)) with respect to a conversion pursuant to Section 2.1, the lower of (A) the product of (1) one (1) minus the Discount and (2) the price paid per share for Preferred Stock by the investors in the Next Equity Financing or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the Fully-Diluted Capitalization immediately prior to the closing of the Next Equity Financing;
 
@@ -30,39 +30,39 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Compan
 
         * ((iii)) with respect to a conversion pursuant to Section 2.3, the quotient resulting from dividing (A) the Valuation Cap by (B) the Fully-Diluted Capitalization immediately prior to the conversion.
 
-    * ((c)) “Corporate Transaction” shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company’s assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company’s securities), of the Company’s securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company’s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company’s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a “Corporate Transaction.”
+    * ((c)) “_Corporate Transaction_” shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company’s assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company’s securities), of the Company’s securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company’s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company’s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a “Corporate Transaction.”
 
-    * ((d)) “Corporate Transaction Payment” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
+    * ((d)) “_Corporate Transaction Payment_” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
 
-    * ((e)) “Discount” shall mean _________ percent (__%).
+    * ((e)) “_Discount_” shall mean _________ percent (__%).
 
-    * ((f)) “Equity Securities” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
+    * ((f)) “_Equity Securities_” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
 
-    * ((g)) “Financial Statements” shall mean an income statement, balance sheet, statement of stockholders’ equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
+    * ((g)) “_Financial Statements_” shall mean an income statement, balance sheet, statement of stockholders’ equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
 
-    * ((h)) “Fully-Diluted Capitalization” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
+    * ((h)) “_Fully-Diluted Capitalization_” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
 
-    * ((i)) “Holder” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
+    * ((i)) “_Holder_” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
 
-    * ((j)) “Interest Rate” shall mean a rate of four percent (4%) per annum, compounded annually.
+    * ((j)) “_Interest Rate_” shall mean a rate of four percent (4%) per annum, compounded annually.
 
-    * ((k)) “KISS” or “KISSes” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
+    * ((k)) “_KISS_” or “_KISSes_” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
 
-    * ((l)) “KISS Group” shall mean the holders of all KISSes in the Series, collectively.
+    * ((l)) “_KISS Group_” shall mean the holders of all KISSes in the Series, collectively.
 
-    * ((m))  “Majority in Interest” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
+    * ((m))  “_Majority in Interest_” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
 
-    * ((n)) “Maturity Date” shall mean the date that is eighteen (18) months following the Date of Issuance.
+    * ((n)) “_Maturity Date_” shall mean the date that is eighteen (18) months following the Date of Issuance.
 
-    * ((o)) “Next Equity Financing” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
+    * ((o)) “_Next Equity Financing_” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
 
-    * ((p))  “Participation Amount” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
+    * ((p))  “_Participation Amount_” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
 
-    * ((q)) “Shadow Series” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+    * ((q)) “_Shadow Series_” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-    * ((r)) “Valuation Cap” shall mean US$__,000,000.
+    * ((r)) “_Valuation Cap_” shall mean US$[__],000,000.
 
-* (2.)  Conversion of the KISS.
+* (2.)  __Conversion of the KISS.__
 
     * (2.1) Next Equity Financing.  Upon the closing of the Next Equity Financing, this KISS will be automatically converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price.  Notwithstanding the foregoing, accrued interest on this KISS may be paid in cash at the option of the Company.  At least five (5) days prior to the closing of the Next Equity Financing, the Company shall notify the Investor in writing of the terms under which the Preferred Stock of the Company will be sold in such financing.  The issuance of Conversion Shares pursuant to the conversion of this KISS shall be upon and subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series, as applicable).  
 
@@ -90,7 +90,7 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Compan
 
     * (3.7) Litigation.  To the Company’s knowledge, there is no private or governmental action, suit, proceeding, claim, arbitration or investigation pending before any agency, court or tribunal, foreign or domestic, or threatened against the Company or any of its properties or any of its officers or managers (in their capacities as such).  There is no judgment, decree or order against the Company, or, to the knowledge of the Company, any of its directors or managers (in their capacities as such), that could prevent, enjoin, or materially alter or delay any of the transactions contemplated by this KISS, or that could reasonably be expected to have a material adverse effect on the Company.
 
-* (4.)  Representations and Warranties of the Investor.  In connection with the transactions provided for herein, the Investor hereby represents and warrants to the Company that:
+* (4.)  __Representations and Warranties of the Investor.__  In connection with the transactions provided for herein, the Investor hereby represents and warrants to the Company that:
 
     * (4.1) Authorization.  This KISS constitutes Investor’s valid and legally binding obligation, enforceable in accordance with its terms, except as may be limited by (i) applicable bankruptcy, insolvency, reorganization, or similar laws relating to or affecting the enforcement of creditors’ rights and (ii) laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
 
@@ -102,7 +102,7 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Compan
 
     * (4.5) Restricted Security.  Investor understands that this KISS is characterized as a “restricted security” under the federal securities laws inasmuch as it is being acquired from the Company in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the Act, only in certain limited circumstances.  
 
-* (5.)  Miscellaneous.
+* (5.)  __Miscellaneous.__
 
     * (5.1) Most Favored Nation.  In the event the Company sells or issues any convertible instruments (other than the issuance of stock options to service providers of the Company) at any time prior to the earlier of (a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS, the Company shall provide the Investor with written notice of such sale or issuance no later than five (5) days after the closing date thereof, including the price and terms of such convertible instruments (the “Subsequent Instruments”).  In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this KISS, the Investor may elect to exchange this KISS for a Subsequent Instrument.
 
@@ -139,13 +139,13 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “Compan
     * (5.14)  Entire Agreement; Amendments and Waivers.  This KISS and the other KISSes in the Series constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  The Company’s agreements with each Holder are separate agreements, and the sales of the KISSes to each Holder are separate sales.  Nonetheless, any term of the KISSes in the Series may be amended and the observance of any term of the KISSes in the Series may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of the Company and the Majority in Interest; provided, however, that Sections 2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.6, 5.13 and 5.14 may not be amended or waived without the written consent of the Investor.  Any waiver or amendment effected in accordance with this Section 5.14 shall be binding upon the Company and each current and future member of the KISS Group.
 
     * (5.15)  Exculpation Among Holders.  Each Holder acknowledges that it is not relying upon any person, firm, corporation or stockholder, other than the Company and its officers and directors in their capacities as such, in making its investment or decision to invest in the Company.  Each Holder agrees that no other Holder nor the respective controlling persons, officers, directors, partners, agents, stockholders or employees of any other Holder shall be liable for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the purchase and sale of the KISSes.
+ 
+* (6.)  __Approval.__  The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company’s execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company’s financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
 [Signature Page Follows] 
- 
-* (6.)  Approval.  The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company’s execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company’s financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
 
-_______________, INC.
+*_______________, INC.*
 
 By:   
 
@@ -158,7 +158,7 @@ Address:
 
 ACKNOWLEDGED AND AGREED:
 
-______________________________  
+*______________________________*
 
 By:   
 
