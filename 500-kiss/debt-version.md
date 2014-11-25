@@ -8,7 +8,7 @@ $[Purchase Price]
 
 [Date]
 
-FOR VALUE RECEIVED, [Company Name], a Delaware corporation (the “__Company__”), hereby promises to pay to the order of [Investor Name] \((the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [Series Number] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+FOR VALUE RECEIVED, [Company Name], a Delaware corporation (the “__Company__”), hereby promises to pay to the order of [Investor Name] \(the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [Series Number] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
 * (1.)  __Definitions.__
 
