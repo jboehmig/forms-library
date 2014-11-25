@@ -358,38 +358,28 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the da
 
 ## THE COMPANY:
 
-Name: *____________________________________________*
+Name: [Company Officer Name]
 
-By: *____________________________________________*
+By:  
 
-Title: *____________________________________________*
+Title: [Company Officer Title]
 
 
 ## KEY HOLDERS:
 
-Name: *____________________________________________*
+Name: [Key Holder Name]
 
-By: *____________________________________________*
+By: 
 
-Name: *____________________________________________*
-
-By: *____________________________________________*
 
 ## PURCHASERS: 
 
-[FOR ENTITY INVESTOR USE FOLLOWING SIGNATURE BLOCK:]
+Name: [Purchaser Name]
 
-Name: *____________________________________________*
+By: 
 
-By: *____________________________________________*
+Title: [Purchaser Title]
 
-Title: *____________________________________________*
-
-[FOR INDIVIDUAL INVESTOR USE FOLLOWING SIGNATURE BLOCK:]
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
 
 -------------------------
 # EXHIBIT C
