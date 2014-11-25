@@ -6,7 +6,7 @@ __SAFE__
 
 __(Simple Agreement for Future Equity)__
 
-THIS CERTIFIES THAT in exchange for the payment by _[Investor Name]_ (the __“Investor”__) of $[Investment Amount] \((the __“Purchase Amount”__) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the __“Company”__), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
+THIS CERTIFIES THAT in exchange for the payment by _[Investor Name]_ (the __“Investor”__) of $[Investment Amount] \(the __“Purchase Amount”__) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the __“Company”__), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
 
 The “__Valuation Cap__” is $[Valuation Cap].  
 
