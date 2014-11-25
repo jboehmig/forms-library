@@ -6,11 +6,11 @@ __SAFE__
 
 __(Simple Agreement for Future Equity)__
 
-THIS CERTIFIES THAT in exchange for the payment by _[Investor Name]_ (the __“Investor”__) of $*[________]* (the __“Purchase Amount”__) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the __“Company”__), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
+THIS CERTIFIES THAT in exchange for the payment by _[Investor Name]_ (the __“Investor”__) of $[Investment Amount] \((the __“Purchase Amount”__) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the __“Company”__), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below. 
 
-The “__Valuation Cap__” is $[___________].  
+The “__Valuation Cap__” is $[Valuation Cap].  
 
-The “__Discount Rate__” is [100 minus the discount]%.
+The “__Discount Rate__” is [Discount]%.
 
 See __Section 2__ for certain additional defined terms.
 
@@ -104,11 +104,13 @@ __SIGNATURE PAGE__
 
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.
 
-__[COMPANY]__
+__[COMPANY NAME]__
 
-By:         
-[name]
-[title]
+By: 
+
+name
+
+title
 
 Address:  
           
@@ -116,9 +118,11 @@ Email:
 
 __INVESTOR:__
 
-By:   
-[name]
-[title]
+By: 
+
+name
+
+title
 
 Address:  
 

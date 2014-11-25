@@ -1,30 +1,30 @@
-[NEWCO, INC.]
+__[Company Name]__
 
-CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
+__CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT__
 
-THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “Agreement”) is made as of *[__________ __, 20__]* (the “Effective Date”) by and among [NEWCO, INC.], a Delaware corporation (the “Company”), and the persons and entities named on the Schedule of Purchasers attached hereto (individually, a “Purchaser” and collectively, the “Purchasers”).
+THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “_Agreement_”) is made as of *[Effective Date]* (the “_Effective Date_”) by and among [Company Name], a Delaware corporation (the “_Company_”), and the persons and entities named on the Schedule of Purchasers attached hereto (individually, a “_Purchaser_” and collectively, the “_Purchasers_”).
 
-RECITAL
+__RECITAL__
 
-To provide the Company with additional resources to conduct its business, the Purchasers are willing to loan to the Company in one or more disbursements up to an aggregate amount of $____________, subject to the conditions specified herein.
+To provide the Company with additional resources to conduct its business, the Purchasers are willing to loan to the Company in one or more disbursements up to an aggregate amount of $[Total Financing Amount], subject to the conditions specified herein.
 
-AGREEMENT
+__AGREEMENT__
 
 NOW, THEREFORE, in consideration of the foregoing, and the representations, warranties, covenants and conditions set forth below, the Company and each Purchaser, intending to be legally bound, hereby agree as follows:
 
-* (1.)  AMOUNT AND TERMS OF THE LOAN
+* (1.)  __AMOUNT AND TERMS OF THE LOAN__
 
-    * (1.1) The Loan.  Subject to the terms of this Agreement, each Purchaser agrees to lend to the Company at the Closing (as hereinafter defined) the amount set forth opposite such Purchaser’s name on the Schedule of Purchasers attached to this Agreement (each, a “Loan Amount”) against the issuance and delivery by the Company of a convertible promissory note for such amount, in substantially the form attached hereto as EXHIBIT A (each, a “Note” and collectively, the “Notes”).  
+    * (1.1) The Loan.  Subject to the terms of this Agreement, each Purchaser agrees to lend to the Company at the Closing (as hereinafter defined) the amount set forth opposite such Purchaser’s name on the Schedule of Purchasers attached to this Agreement (each, a “_Loan Amount_”) against the issuance and delivery by the Company of a convertible promissory note for such amount, in substantially the form attached hereto as EXHIBIT A (each, a “_Note_” and collectively, the “_Notes_”).  
 
-* (2.)  CLOSING AND DELIVERY
+* (2.)  __CLOSING AND DELIVERY__
 
-    * (2.1) Closing.  The closing of the sale and purchase of the Notes (the “Closing”) shall be held on the Effective Date, or at such other time as the Company and Purchasers may mutually agree (such date is hereinafter referred to as the “Closing Date”).
+    * (2.1) Closing.  The closing of the sale and purchase of the Notes (the “_Closing_”) shall be held on the Effective Date, or at such other time as the Company and Purchasers may mutually agree (such date is hereinafter referred to as the “_Closing Date_”).
 
-    * (2.2) Subsequent Sales of Notes.  At any time on or before the ____  day following the Closing, the Company may sell Notes representing up to the balance of the authorized principal amount not sold at the Closing (the “Additional Purchasers”).  All such sales made at any additional closings (each an “Additional Closing”) shall be made on the terms and conditions set forth in this Agreement and (i)  the representations and warranties of the Company set forth in Section 3 hereof shall speak as of the Closing and the Company shall have no obligation to update any disclosure related thereto, and (ii) the representations and warranties of the Additional Purchasers in Section 4 hereof shall speak as of such Additional Closing.  This Agreement, including without limitation, the Schedule of Purchasers, may be amended by the Company without the consent of Purchasers to include any Additional Purchasers upon the execution by such Additional Purchasers of a counterpart signature page hereto.  Any Notes sold pursuant to this Section 2.2 shall be deemed to be “Notes,” for all purposes under this Agreement and any Additional Purchasers thereof shall be deemed to be “Purchasers” for all purposes under this Agreement.
+    * (2.2) Subsequent Sales of Notes.  At any time on or before the ['Additional Closing Period']  day following the Closing, the Company may sell Notes representing up to the balance of the authorized principal amount not sold at the Closing (the “_Additional Purchasers_”).  All such sales made at any additional closings (each an “_Additional Closing_”) shall be made on the terms and conditions set forth in this Agreement and (i)  the representations and warranties of the Company set forth in Section 3 hereof shall speak as of the Closing and the Company shall have no obligation to update any disclosure related thereto, and (ii) the representations and warranties of the Additional Purchasers in Section 4 hereof shall speak as of such Additional Closing.  This Agreement, including without limitation, the Schedule of Purchasers, may be amended by the Company without the consent of Purchasers to include any Additional Purchasers upon the execution by such Additional Purchasers of a counterpart signature page hereto.  Any Notes sold pursuant to this Section 2.2 shall be deemed to be “Notes,” for all purposes under this Agreement and any Additional Purchasers thereof shall be deemed to be “Purchasers” for all purposes under this Agreement.
 
     * (2.3) Delivery.  At the Closing and each Additional Closing (i) each Purchaser shall deliver to the Company a check or wire transfer funds in the amount of such Purchaser’s Loan Amount; and (ii) the Company shall issue and deliver to each Purchaser a Note in favor of such Purchaser payable in the principal amount of such Purchaser’s Loan Amount.
 
-* (3.)  REPRESENTATIONS, WARRANTIES THE COMPANY
+* (3.)  __REPRESENTATIONS, WARRANTIES THE COMPANY__
 
   The Company hereby represents and warrants to each Purchaser as of the Closing as follows:
 
@@ -32,7 +32,7 @@ NOW, THEREFORE, in consideration of the foregoing, and the representations, warr
 
     * (3.2) Corporate Power.  The Company has all requisite corporate power to execute and deliver this Agreement, to issue each Note (collectively, the “Loan Documents”) and to carry out and perform its obligations under the terms of the Loan Documents.  
 
-    * (3.3) Authorization.  All corporate action on the part of the Company, its directors and its stockholders necessary for the authorization of the Loan Documents and the execution, delivery and performance of all obligations of the Company under the Loan Documents, including the issuance and delivery of the Notes and the reservation of the equity securities issuable upon conversion of the Notes (collectively, the “Conversion Securities”) has been taken or will be taken prior to the issuance of such Conversion Securities.  The Loan Documents, when executed and delivered by the Company, shall constitute valid and binding obligations of the Company enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The Conversion Securities, when issued in compliance with the provisions of the Loan Documents will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
+    * (3.3) Authorization.  All corporate action on the part of the Company, its directors and its stockholders necessary for the authorization of the Loan Documents and the execution, delivery and performance of all obligations of the Company under the Loan Documents, including the issuance and delivery of the Notes and the reservation of the equity securities issuable upon conversion of the Notes (collectively, the “_Conversion Securities_”) has been taken or will be taken prior to the issuance of such Conversion Securities.  The Loan Documents, when executed and delivered by the Company, shall constitute valid and binding obligations of the Company enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The Conversion Securities, when issued in compliance with the provisions of the Loan Documents will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
 
     * (3.4) Governmental Consents.  All consents, approvals, orders, or authorizations of, or registrations, qualifications, designations, declarations, or filings with, any governmental authority, required on the part of the Company in connection with the valid execution and delivery of this Agreement, the offer, sale or issuance of the Notes and the Conversion Securities issuable upon conversion of the Notes or the consummation of any other transaction contemplated hereby shall have been obtained and will be effective at such time as required by such governmental authority. 
 
@@ -44,7 +44,7 @@ NOW, THEREFORE, in consideration of the foregoing, and the representations, warr
 
     * (3.8) Use of Proceeds.  The Company shall use the proceeds of sale and issuance of the Notes for the operations of its business, and not for any personal, family or household purpose. 
 
-* (4.)  REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+* (4.)  __REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS__
 
     * (4.1) Purchase for Own Account.  Each Purchaser represents that it is acquiring the Securities solely for its own account and beneficial interest for investment and not for sale or with a view to distribution of the Securities or any part thereof, has no present intention of selling (in connection with a distribution or otherwise), granting any participation in, or otherwise distributing the same, and does not presently have reason to anticipate a change in such intention.
 
@@ -62,13 +62,13 @@ NOW, THEREFORE, in consideration of the foregoing, and the representations, warr
 
     * (4.5) Accredited Investor Status.  Each Purchaser is an “accredited investor” as such term is defined in Rule 501 under the Act.
 
-* (5.)  FURTHER AGREEMENTS
+* (5.)  __FURTHER AGREEMENTS__
 
     * (5.1) “Market Stand-Off” Agreement.  Each Purchaser agrees that such Purchaser shall not sell, transfer, make any short sale of, grant any option for the purchase of, or enter into any hedging or similar transaction with the same economic effect as a sale, any Common Stock (or other securities) of the Company held by such Purchaser (other than those included in the registration) during the 180-day period following the effective date of the Company’s first firm commitment underwritten public offering of its Common Stock registered under the Securities Act (or such longer period as the underwriters or the Company shall request in order to facilitate compliance with FINRA Rule 2711 or NYSE Member Rule 472 or any successor or similar rule or regulation), provided that all officers and directors of the Company are bound by and have entered into similar agreements.  Each Purchaser agrees to execute and deliver such other agreements as may be reasonably requested by the Company or the underwriters that are consistent with the Purchaser’s obligations under Section 5.1 or that are necessary to give further effect to this Section 5.1.  In addition, if requested by the Company or the representative of the underwriters of Common Stock (or other securities) of the Company, each Purchaser shall provide, within 10 days of such request, such information as may be required by the Company or such representative in connection with the completion of any public offering of the Company’s securities pursuant to a registration statement filed under the Act.  The obligations described in this Section 5.1 shall not apply to a registration relating solely to employee benefit plans on Form S-1 or Form S-8 or similar forms that may be promulgated in the future, or a registration relating solely to a transaction on Form S-4 or similar forms that may be promulgated in the future.
 
     * (5.2) Further Assurances.  Each Purchaser agrees and covenants that at any time and from time to time it will promptly execute and deliver to the Company such further instruments and documents and take such further action as the Company may reasonably require in order to carry out the full intent and purpose of this Agreement and to comply with state or federal securities laws or other regulatory approvals.
 
-* (6.)  MISCELLANEOUS
+* (6.)  __MISCELLANEOUS__
 
     * (6.1) Binding Agreement.  The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties.  Nothing in this Agreement, expressed or implied, is intended to confer upon any third party any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
 
@@ -89,14 +89,14 @@ NOW, THEREFORE, in consideration of the foregoing, and the representations, warr
     * (6.9) Entire Agreement.  This Agreement and the Exhibits hereto constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof and no party shall be liable or bound to any other party in any manner by any representations, warranties, covenants and agreements except as specifically set forth herein.
 
 
-[signature page follows]
+_signature page follows_
  
 
 IN WITNESS WHEREOF, the parties have executed this CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT as of the date first written above.
 
 COMPANY:
 
-[NEWCO, INC.]
+[Company Name]
 
 By: 
 Name: 

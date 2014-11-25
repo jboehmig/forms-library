@@ -1,16 +1,14 @@
 THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
-__SERIES [1]__
+__SERIES [Series Number]__
 
 __KISS__
     
 $[Purchase Price]    
 
-[Date of Issuance]
-     
-*_______________ __, 201_*
+[Date]
 
-FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “__Company__”), hereby promises to pay to the order of _______________ (the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [1] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+FOR VALUE RECEIVED, [Company Name], a Delaware corporation (the “__Company__”), hereby promises to pay to the order of [Investor Name] \((the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series [Series Number] KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
 * (1.)  __Definitions.__
 
@@ -34,7 +32,7 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “__Comp
 
     * ((d)) “_Corporate Transaction Payment_” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
 
-    * ((e)) “_Discount_” shall mean _________ percent (__%).
+    * ((e)) “_Discount_” shall mean [Discount]%.
 
     * ((f)) “_Equity Securities_” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
 
@@ -60,7 +58,7 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “__Comp
 
     * ((q)) “_Shadow Series_” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-    * ((r)) “_Valuation Cap_” shall mean US$[__],000,000.
+    * ((r)) “_Valuation Cap_” shall mean US$ [Valuation Cap].
 
 * (2.)  __Conversion of the KISS.__
 
@@ -142,10 +140,10 @@ FOR VALUE RECEIVED, _______________, Inc., a Delaware corporation (the “__Comp
  
 * (6.)  __Approval.__  The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company’s execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company’s financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
-[Signature Page Follows] 
+_Signature Page Follows_
 
 
-*_______________, INC.*
+[COMPANY NAME]
 
 By:   
 
@@ -158,7 +156,7 @@ Address:
 
 ACKNOWLEDGED AND AGREED:
 
-*______________________________*
+[INVESTOR NAME]
 
 By:   
 
