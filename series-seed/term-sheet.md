@@ -40,7 +40,7 @@ Documents will be identical to the Series Seed Preferred Stock documents publish
 
 ### Financial Information:	
 
-Purchasers who have invested at least [Major Purchaser Dollar Threshold] \((“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
+Purchasers who have invested at least [Major Purchaser Dollar Threshold] \(“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
 
 ### Participation Right:	
 

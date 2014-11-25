@@ -99,23 +99,23 @@ COMPANY:
 [Company Name]
 
 By: 
+
 Name: 
+
 Title:  
 
 Address:
-  
-  
-  
  
 IN WITNESS WHEREOF, the parties have executed this CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT as of the date first written above.
 
 PURCHASER:
 
-  
 (Entity name, if applicable)
 
 By: 
-Name: 
+
+Name:
+
 Title:  
 
 Address:
@@ -126,6 +126,7 @@ Address:
 SCHEDULE OF PURCHASERS
 
 Name and Address  
+
 Loan Amount
   
  
