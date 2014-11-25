@@ -12,7 +12,7 @@ Shares of Series Seed Preferred Stock of the Company (the “_Series Seed_”).
 
 ### Aggregate Proceeds:	
 
-$[Aggregate Proceeds] in aggregate.
+$[Total Series Seed Investment Amount] in aggregate.
 
 ### Purchasers:	
 
@@ -48,7 +48,7 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 
 ### Board of Directors:	
 
-[Number of Common Directors] directors elected by holders of a majority of common stock, [Number of Series Seed Directors] elected by holders of a majority of Series Seed and [Number of Mutual Directors] elected by mutual consent.
+[Number of Common Board Members] directors elected by holders of a majority of common stock, [Number of Seed Board Members] elected by holders of a majority of Series Seed and [Number of Mutual Board Members] elected by mutual consent.
 
 ### Expenses:	
 

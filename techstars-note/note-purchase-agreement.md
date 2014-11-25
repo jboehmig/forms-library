@@ -2,7 +2,7 @@ __[Company Name]__
 
 __CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT__
 
-THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “_Agreement_”) is made as of *[Effective Date]* (the “_Effective Date_”) by and among [Company Name], a Delaware corporation (the “_Company_”), and the persons and entities named on the Schedule of Purchasers attached hereto (individually, a “_Purchaser_” and collectively, the “_Purchasers_”).
+THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “_Agreement_”) is made as of [Date of Note Purchase Agreement] \(the “_Effective Date_”) by and among [Company Name], a Delaware corporation (the “_Company_”), and the persons and entities named on the Schedule of Purchasers attached hereto (individually, a “_Purchaser_” and collectively, the “_Purchasers_”).
 
 __RECITAL__
 
